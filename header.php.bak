@@ -1,0 +1,18 @@
+<?php
+/*
+ * Codejudge
+
+ * Common header for most files
+ */
+?>
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Codejudge Admin Panel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.2.1/css/bulma.min.css">
+  <script src="https://code.jquery.com/jquery.js"></script>
+ 
